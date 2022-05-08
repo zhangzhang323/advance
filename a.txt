@@ -15,3 +15,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feat
+在实际开发中，我们应该按照几个基本原则进行分支管理:
